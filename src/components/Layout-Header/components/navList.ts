@@ -45,7 +45,7 @@ const navList = ref([
   },
   {
     label: 'Jozo Product',
-    to: 'https://xxx.com',
+    to: 'https://product.jozodrop.com/',
     isLink:true,
     children: []
   },
