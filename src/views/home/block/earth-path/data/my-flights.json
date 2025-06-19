@@ -1,0 +1,94 @@
+{
+  "type": "FlightsCollection",
+  "flights": [
+    {
+      "name": "美国-拉斯维加斯",
+      "order": 1,
+      "startLat": 34,
+      "startLng": 112,
+      "endLat": 36.17227964666508,
+      "endLng": -115.16407274940042,
+      "arc": 0.2,
+      "color": "#ffff00"
+    },
+    {
+      "name": "阿根廷-塔卡查",
+      "order": 2,
+      "startLat": 34,
+      "startLng": 112,
+      "endLat": -27.217205087742574,
+      "endLng": -61.18745989380853,
+      "arc": 0.6,
+      "color": "#00ffff"
+    },
+    {
+      "name": "法国-图尔奈富耶",
+      "order": 3,
+      "startLat": 34,
+      "startLng": 112,
+      "endLat": 43.18473707436205,
+      "endLng": 0.2444404334069575,
+      "arc": 0.2,
+      "color": "#ff00ff"
+    },
+    {
+      "name": "意大利-波尔图城堡",
+      "order": 4,
+      "startLat": 34,
+      "startLng": 112,
+      "endLat": 45.54562692043634,
+      "endLng": 11.541727269136937,
+      "arc": 0.2
+    },
+    {
+      "name": "澳大利亚-乌伦加",
+      "order": 1,
+      "startLat": 34,
+      "startLng": 112,
+      "endLat": -26.663911172929964,
+      "endLng": 153.11050471860912,
+      "arc": 0.3,
+      "color": "#ffff00"
+    },
+    {
+      "name": "巴西-圣保罗州",
+      "order": 2,
+      "startLat": 34,
+      "startLng": 112,
+      "endLat": -22.380708250588103,
+      "endLng": -49.04290095475521,
+      "arc": 0.6,
+      "color": "#00ffff"
+    },
+    {
+      "name": "西班牙-巴伦西亚",
+      "order": 3,
+      "startLat": 34,
+      "startLng": 112,
+      "endLat": 39.471921375921845,
+      "endLng": -0.3724998297105329,
+      "arc": 0.2,
+      "color": "#ff00ff"
+    },
+    {
+      "name": "巴西-柏拉拿州",
+      "order": 4,
+      "startLat": 34,
+      "startLng": 112,
+      "endLat": -24.745727137632652,
+      "endLng": -52.168015952273414,
+      "arc": 0.5
+    },
+    {
+      "name": "巴西-米纳斯吉拉斯",
+      "order": 1,
+      "startLat": 34,
+      "startLng": 112,
+      "endLat": -17.46258273204172,
+      "endLng": -44.674576226604955,
+      "arc": 0.4,
+      "color": "#ffff00"
+    }
+
+  ]
+}

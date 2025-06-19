@@ -1,0 +1,17 @@
+@use 'sass:math';
+
+@function px2vw($px) {
+  @return math.div($px, 1920) * 100vw;
+}
+
+@function px2vwV2($px) {
+  @return math.div($px, 2560) * 100vw;
+}
+
+@function reactive($px) {
+  @return min(px2vw($px), #{$px}px);
+}
+
+@function reactiveV2($px) {
+  @return min(px2vwV2($px), #{$px}px);
+}
