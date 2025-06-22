@@ -154,7 +154,7 @@ import 'element-plus/es/components/anchor-link/style/css'
           However, Users do need to create an account to make use of the unique features and functionality offered by
           the Company.
         </div>
-        <div>Retailers can register for an JozoDrop passport account either on xxx.com based on their unique
+        <div>Retailers can register for an JozoDrop passport account either on https://jozodrop.co.uk based on their unique
           needs and use the same user login credentials when accessing other Services offered by the Company.
         </div>
         <div>The Company currently offers multiple subscription plans. You can easily select your preferred plan and
@@ -517,7 +517,7 @@ import 'element-plus/es/components/anchor-link/style/css'
         </div>
         <div class="block-title" id="ContactUs">22. Contact Us</div>
         <div>If you have any questions regarding these terms and conditions you can contact us by email at
-          xxx.com
+          info@exceedigital.co.uk
         </div>
         <div class="block-title" id="ForceMajeure">23. Force Majeure</div>
         <div>Neither the Company nor the user will be held liable for any failure to perform any of its obligations

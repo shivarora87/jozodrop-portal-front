@@ -21,25 +21,25 @@ serviceList = ref(serviceList)
             <img src="@/assets/img/global/footer/logo.png" alt="" class="logo-img" />
           </div>
           <div class="company-name">
-            {{t('t1')}}: Jozo Electronic Technology Co., Ltd.
+            {{t('t1')}}: Exceedigital Ltd.
           </div>
-          <div class="contract-us">{{t('t15')}}: <a href="mailto:xxx.com" target="_blank">xxx.com</a></div>
-          <div class="contract-us">{{t('t16')}}: <a href="mailto:xxx.com" target="_blank">xxx.com</a></div>
+          <div class="contract-us">{{t('t15')}}: <a href="mailto:info@exceedigital.co.uk" target="_blank">info@exceedigital.co.uk</a></div>
+          <div class="contract-us">{{t('t16')}}: <a href="https://wa.me/447448538041" target="_blank"> +44-7459010670 </a> </div>
           <div class="icon-list flex flex-horizontal-between flex-vertical-center">
-            <a href="mailto:xxx.com" target="_blank" class="icon-link">
+            <a href="mailto:info@exceedigital.co.uk" target="_blank" class="icon-link">
               <img src="@/assets/img/global/footer/icon-1.png" alt="" class="icon-img">
             </a>
-            <a href="https://xxx.com" target="_blank" class="icon-link">
+            <a href="https://www.instagram.com/jozodrop_uk/" target="_blank" class="icon-link">
               <img src="@/assets/img/global/footer/icon-2.png" alt="" class="icon-img">
             </a>
-            <a href="https://xxx.com" target="_blank" class="icon-link">
+            <a href="https://www.facebook.com/profile.php?id=61577243887748" target="_blank" class="icon-link">
               <img src="@/assets/img/global/footer/icon-3.png" alt="" class="icon-img">
             </a>
-            <a href="https://xxx.com" target="_blank"
+            <a href="https://www.youtube.com/@jozodrop" target="_blank"
                class="icon-link">
               <img src="@/assets/img/global/footer/icon-6.svg" alt="" class="icon-img" style="height: 1.3375vw">
             </a>
-            <a href="https://xxx.com" target="_blank"
+            <a href="https://www.tiktok.com/@jozo_drop" target="_blank"
                class="icon-link">
               <img src="@/assets/img/global/footer/icon-7.svg" alt="" class="icon-img">
             </a>
@@ -98,7 +98,7 @@ serviceList = ref(serviceList)
     </div>
     <!--<div class="copyright-wrap flex flex-horizontal-center">-->
     <!--  &lt;!&ndash;todo:修改版权&ndash;&gt;-->
-    <!--  &lt;!&ndash;<div class="copyright-label">Copyright © 2022 TJOZOXXXX. A</div>&ndash;&gt;-->
+    <!--  &lt;!&ndash;<div class="copyright-label">Copyright © 2025 Exceedigital ltd. A</div>&ndash;&gt;-->
     <!--  <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank" class="record-number"-->
     <!--  >豫ICP备2023002701号-2</a-->
     <!--  >-->
@@ -218,7 +218,7 @@ serviceList = ref(serviceList)
 <i18n>
 {
   "en": {
-    "t1": "Company name",
+    "t1": "UK Partner Name",
     "t2": "Contact us",
     "t3": "Services",
     "t4": "Community",
@@ -232,8 +232,8 @@ serviceList = ref(serviceList)
     "t12": "About Us",
     "t13": "How it Works",
     "t14": "Terms Of Service",
-    "t15": "Complaints and Suggestions",
-    "t16": "Business Cooperation"
+    "t15": "Email",
+    "t16": "Phone Number"
   },
   "vn": {
     "t1": "Tên công ty",

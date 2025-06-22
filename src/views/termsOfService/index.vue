@@ -245,7 +245,7 @@ import 'element-plus/es/components/anchor-link/style/css'
         <div>You can review the most current version of the Terms of Service at any time at this page.</div>
         <div>We reserve the right, at our sole discretion, to update, change or replace any part of these Terms of Service by posting updates and changes to our website. It is your responsibility to check our website periodically for changes. Your continued use of or access to our website or the Service following the posting of any changes to these Terms of Service constitutes acceptance of those changes.</div>
         <div class="block-title" id="CONTACT INFORMATION">CONTACT INFORMATION</div>
-        <div>Questions about the Terms of Service should be sent to us at xxx.com.</div>
+        <div>Questions about the Terms of Service should be sent to us at info@exceedigital.co.uk.</div>
       </div>
     </div>
   </div>

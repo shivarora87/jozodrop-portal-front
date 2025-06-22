@@ -1,0 +1,10 @@
+Searching 138 files for "J0Z0 provides a platform user recommendation reward program" (regex, case sensitive)
+
+~/Downloads/jozodrop-uk/src/views/home/block/affiliates.vue:
+    9        <div class="flex flex-horizontal-center">
+   10          <BlockTitle
+   11:           label="JOZO provides a platform user recommendation reward program"
+   12            color="#f59a23"
+   13            class="title" />
+
+1 match in 1 file

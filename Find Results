@@ -370,7 +370,7 @@ Searching 137 files for "Jozo Product" (regex, case sensitive)
    45    },
    46    {
    47:     label: 'Jozo Product',
-   48      to: 'https://xxx.com',
+   48      to: 'https://product.jozodrop.com/',
    49      isLink:true,
 
 4 matches in 1 file

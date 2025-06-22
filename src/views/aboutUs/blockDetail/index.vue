@@ -5,7 +5,7 @@ import useFetch from '@/utils/useFetch'
 
 const { query } = useRoute()
 const detail = ref({})
-const baseUrl = ref(import.meta.env.PROD ? '' : 'http://xxx.com')
+const baseUrl = ref(import.meta.env.PROD ? '' : 'https://jozodrop.co.uk'')
 onMounted(async () => {
   try {
     const res = await useFetch(`/portal/${query.id}`)

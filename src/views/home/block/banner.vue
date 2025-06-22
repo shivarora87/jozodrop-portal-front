@@ -93,7 +93,7 @@ onMounted(() => {
       <iframe
         width="960"
         height="540"
-        src="https://xxx.com"
+        src="https://jozodrop.co.uk"
         title="Jozo"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

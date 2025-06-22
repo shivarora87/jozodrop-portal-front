@@ -4,7 +4,7 @@ import {useI18nLang} from '@hooks'
 
 const {t} = useI18nLang()
 const jump = ()=>{
-  window.open('https://xxx.com','_blank')
+  window.open('https://jozodrop.co.uk','_blank')
 }
 </script>
 

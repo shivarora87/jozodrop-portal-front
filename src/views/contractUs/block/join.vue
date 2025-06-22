@@ -78,7 +78,7 @@ const handlerSubmit = async () => {
           <div class="icon-list">
             <div class="icon-box flex flex-vertical-center icon-1">
               <img src="@/assets/img/contractus/join/icon-1.png" alt="" class="icon-img">
-              <a href="mailto:xxx.com" class="icon-label">marketing@jozodrop.com</a>
+              <a href="mailto:info@exceedigital.co.uk" class="icon-label">info@exceedigital.co.uk/a>
             </div>
             <div class="icon-box flex flex-vertical-center icon-2">
               <img src="@/assets/img/contractus/join/icon-2.png" alt="" class="icon-img">

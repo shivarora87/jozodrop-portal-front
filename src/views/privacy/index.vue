@@ -52,7 +52,7 @@ import 'element-plus/es/components/anchor-link/style/css'
           and any reference to “You”, “Your”, or “User” refers to all Website Account Holders and Website Visitors.
         </div>
         <div class="sub-title">1.The Scope of this Privacy Policy</div>
-        <div>This Privacy Policy governs your use of websites located at xxx.com (collectively referred to as
+        <div>This Privacy Policy governs your use of websites located at jozodrop.co.uk (collectively referred to as
           the “Website” or the “Platform”).
         </div>
         <div class="sub-title">2.Data Controller</div>
@@ -141,7 +141,7 @@ import 'element-plus/es/components/anchor-link/style/css'
         <div class="sub-title">7.Information we collect from you when you contact us</div>
         <div>
           We enable our Users to contact us through the online forms on our website as well as via email at
-          xxx.com.
+          info@exceedigital.co.uk .
         </div>
         <div>
           We will collect the following personal data, but not limited to:
@@ -323,7 +323,7 @@ import 'element-plus/es/components/anchor-link/style/css'
           to provide our services for you.
         </div>
         <div>
-          To exercise any of the rights listed above, please contact us at xxx.com with your request. Once
+          To exercise any of the rights listed above, please contact us at info@exceedigital.co.uk with your request. Once
           we
           receive your deletion request, we will review it and process it accordingly. We may need to collect more
           information from you to verify your identity.
@@ -390,10 +390,10 @@ import 'element-plus/es/components/anchor-link/style/css'
         <div class="block-title" id="ContactUs">Contact Us</div>
         <div>
           If you have any questions regarding the terms and conditions in this policy, please email us via
-          xxx.com.
+          info@exceedigital.co.uk.
         </div>
         <div class="sub-title">1.The Scope of this Privacy Policy</div>
-        <div>This Privacy Policy governs your use of websites located at xxx.com (collectively referred to as
+        <div>This Privacy Policy governs your use of websites located at https://jozodrop.co.uk (collectively referred to as
           the
           “Website” or the “Platform”).
         </div>
