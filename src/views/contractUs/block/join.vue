@@ -78,19 +78,19 @@ const handlerSubmit = async () => {
           <div class="icon-list">
             <div class="icon-box flex flex-vertical-center icon-1">
               <img src="@/assets/img/contractus/join/icon-1.png" alt="" class="icon-img">
-              <a href="mailto:info@exceedigital.co.uk" class="icon-label">info@exceedigital.co.uk/a>
+              <a href="mailto:info@exceedigital.co.uk" class="icon-label">info@exceedigital.co.uk</a>
             </div>
             <div class="icon-box flex flex-vertical-center icon-2">
               <img src="@/assets/img/contractus/join/icon-2.png" alt="" class="icon-img">
-              <a href="https://xxx.com" class="icon-label">Jozodrop</a>
+              <a href="https://www.instagram.com/jozodrop_uk/" class="icon-label">Jozodrop</a>
             </div>
             <div class="icon-box flex flex-vertical-center icon-3">
               <img src="@/assets/img/contractus/join/icon-3.png" alt="" class="icon-img">
-              <a href="https://xxx.com" class="icon-label">Jozodrop</a>
+              <a href="https://www.facebook.com/profile.php?id=61577243887748" class="icon-label">Jozodrop</a>
             </div>
             <div class="icon-box flex flex-vertical-center icon-5">
               <img src="@/assets/img/contractus/join/icon-5.png" alt="" class="icon-img">
-              <a href="https://xxx.com" class="icon-label">Jozo Drop</a>
+              <a href="https://www.tiktok.com/@jozo_drop" class="icon-label">Jozo Drop</a>
             </div>
           </div>
         </div>
