@@ -4,7 +4,7 @@ import {useI18nLang} from '@hooks'
 
 const {t} = useI18nLang()
 const jump = ()=>{
-  window.open('https://app.jozodrop.com/login','_blank')
+  window.open('https://docs.google.com/forms/d/e/1FAIpQLScZAeopvYqkktuMI-ZZi1VnRqyQKNOvJqsUK-RSR-Z-LEjH_w/viewform?usp=dialog','_blank')
 }
 </script>
 
@@ -30,7 +30,7 @@ const jump = ()=>{
 <i18n>
 {
   "en": {
-    "t1": "LOGIN"
+    "t1": "Contact US"
   },
   "vn": {
     "t1": "Đăng nhập"
